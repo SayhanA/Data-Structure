@@ -1,0 +1,14 @@
+10 20 30 40 
+40 30 20 10 
+
+After inserting on head
+120 100 10 20 30 40 
+40 30 20 10 100 120 
+6
+
+Insert at any position
+120 100 400 10 20 30 40 
+40 30 20 10 400 100 120 
+
+
+Delete at any position
