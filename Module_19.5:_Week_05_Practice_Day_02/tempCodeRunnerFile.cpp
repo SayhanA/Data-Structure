@@ -1,4 +1,4 @@
-
-    for(int val:v2){
-        cout << val << " ";
-    }
+if(!status){
+    //     cout << status << endl;
+    //     return;
+    // }
