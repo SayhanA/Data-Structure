@@ -14,6 +14,15 @@ class Node{
     }
 };
 
+void inOrdder(Node* root){
+    if(root == NULL){
+        return;
+    }
+    inOrdder(root->left);
+    cout << root->val << " ";
+    inOrdder(root->right);
+}
+
 int main(){
 
     Node* root = new Node(10);
@@ -37,6 +46,8 @@ int main(){
     b->right = d;
     d->left = f;
     d->right = g;
+
+    inOrdder(root);
     
     return 0;
 }
