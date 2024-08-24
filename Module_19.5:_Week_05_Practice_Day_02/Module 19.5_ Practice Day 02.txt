@@ -1,0 +1,22 @@
+﻿Introduction to Basic Data Structures
+Module 19.5: Practice Day 02
+(Leetcode Links)
+https://docs.google.com/document/d/1P6Y5lpiAaR6XMlX24tYwKK-Ej60xF-D7/edit?usp=sharing&ouid=106702945304372194693&rtpof=true&sd=true
+
+
+
+
+
+
+Topics:
+1. Binary Tree
+
+
+Leetcode Links:
+
+
+1. Root Equals Sum of Children - LeetCode
+2. Univalued Binary Tree - LeetCode
+3. Leaf-Similar Trees - LeetCode
+4. Same Tree - LeetCode
+5. Binary Tree Tilt - LeetCode
