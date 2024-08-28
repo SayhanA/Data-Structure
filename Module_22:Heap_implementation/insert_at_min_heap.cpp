@@ -20,7 +20,6 @@ int main(){
 
         while(current_index != 0){
             int parent_index = (current_index-1)/2;
-            //cout << v[parent_index];
 
             if(v[parent_index] > v[current_index]) swap(v[parent_index], v[current_index]);
             else break;
