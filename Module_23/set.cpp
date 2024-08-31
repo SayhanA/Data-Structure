@@ -20,7 +20,7 @@ int main(){
     // another way of pring values
     // for (auto i = s.begin(); i != s.end(); i++)
     // {
-    //     cout << *i << " ";
+    //     cout << *i << " "; 
     // }
 
     if(s.count(7)) cout << "Yes\n";
